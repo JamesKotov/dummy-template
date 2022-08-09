@@ -1,0 +1,8 @@
+/* Тут Петя пишет стили для главного экрана */
+
+$screen1-background-color: antiquewhite;
+
+.section1 {
+    background-color: $screen1-background-color;
+    color: $color-main;
+}

@@ -1,0 +1,10 @@
+/* Тут Абдурахман пишет стили подвала */
+
+$footer-background-color: #000;
+$footer-text-color: #fff;
+
+
+.footer {
+    background-color: $footer-background-color;
+    color: $footer-text-color;
+}

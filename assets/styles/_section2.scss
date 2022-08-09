@@ -1,0 +1,8 @@
+/* Тут Миша пишет стили для второго экрана */
+
+$screen2-background-color: burlywood;
+
+.section2 {
+    background-color: $screen2-background-color;
+    color: $color-main;
+}

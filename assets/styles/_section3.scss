@@ -1,0 +1,8 @@
+/* Тут Саша пишет стили для третьего экрана */
+
+$screen3-background-color: darksalmon;
+
+.section3 {
+    background-color: $screen3-background-color;
+    color: $color-main;
+}

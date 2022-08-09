@@ -1,0 +1,15 @@
+/* Тут Вася пишет стили хедера */
+
+$header-background-color: #fff;
+$header-text-color: $color-main;
+
+
+.header {
+    background-color: $header-background-color;
+    color: $header-text-color;
+
+    @media screen and (max-width: $grid-breakpoint-md) {
+        font-weight: bold;
+    }
+
+}
